@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FUP:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FUP_jar</output-path>
+    <root id="archive" name="FUP.jar">
+      <element id="module-output" name="FUP" />
+    </root>
+  </artifact>
+</component>

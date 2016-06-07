@@ -1,0 +1,1 @@
+# FUP算法Spark上的实现。（fast update pruning） > * args: * args[0]  --minSupport * args[1]  --DB * args[2]  --db * args[3]  --DBmidResult * args[4]  --Result * args[5]  --FinalRecord fup算法实现增量更新下的频繁项挖掘，通过重用上次计算的中间结果，节省本次增量计算的计算代价。 具体算法内容见论文Maintenance of Discovered Association Rules in Large Database :An Incremental Updating Technique  
